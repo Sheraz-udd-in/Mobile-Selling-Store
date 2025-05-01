@@ -1,0 +1,568 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		3F8236DB2DBA48B60024BFF9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3F8236BC2DBA48B50024BFF9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3F8236C32DBA48B50024BFF9;
+			remoteInfo = "Mobile Selling Store";
+		};
+		3F8236E52DBA48B60024BFF9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3F8236BC2DBA48B50024BFF9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3F8236C32DBA48B50024BFF9;
+			remoteInfo = "Mobile Selling Store";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3F8236C42DBA48B50024BFF9 /* Mobile Selling Store.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mobile Selling Store.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F8236DA2DBA48B60024BFF9 /* Mobile Selling StoreTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mobile Selling StoreTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F8236E42DBA48B60024BFF9 /* Mobile Selling StoreUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Mobile Selling StoreUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		3F8236EC2DBA48B60024BFF9 /* Exceptions for "Mobile Selling Store" folder in "Mobile Selling Store" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 3F8236C32DBA48B50024BFF9 /* Mobile Selling Store */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		3F8236C62DBA48B50024BFF9 /* Mobile Selling Store */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				3F8236EC2DBA48B60024BFF9 /* Exceptions for "Mobile Selling Store" folder in "Mobile Selling Store" target */,
+			);
+			path = "Mobile Selling Store";
+			sourceTree = "<group>";
+		};
+		3F8236DD2DBA48B60024BFF9 /* Mobile Selling StoreTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Mobile Selling StoreTests";
+			sourceTree = "<group>";
+		};
+		3F8236E72DBA48B60024BFF9 /* Mobile Selling StoreUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = "Mobile Selling StoreUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3F8236C12DBA48B50024BFF9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F8236D72DBA48B60024BFF9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F8236E12DBA48B60024BFF9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3F8236BB2DBA48B50024BFF9 = {
+			isa = PBXGroup;
+			children = (
+				3F8236C62DBA48B50024BFF9 /* Mobile Selling Store */,
+				3F8236DD2DBA48B60024BFF9 /* Mobile Selling StoreTests */,
+				3F8236E72DBA48B60024BFF9 /* Mobile Selling StoreUITests */,
+				3F8236C52DBA48B50024BFF9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3F8236C52DBA48B50024BFF9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3F8236C42DBA48B50024BFF9 /* Mobile Selling Store.app */,
+				3F8236DA2DBA48B60024BFF9 /* Mobile Selling StoreTests.xctest */,
+				3F8236E42DBA48B60024BFF9 /* Mobile Selling StoreUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3F8236C32DBA48B50024BFF9 /* Mobile Selling Store */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F8236ED2DBA48B60024BFF9 /* Build configuration list for PBXNativeTarget "Mobile Selling Store" */;
+			buildPhases = (
+				3F8236C02DBA48B50024BFF9 /* Sources */,
+				3F8236C12DBA48B50024BFF9 /* Frameworks */,
+				3F8236C22DBA48B50024BFF9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				3F8236C62DBA48B50024BFF9 /* Mobile Selling Store */,
+			);
+			name = "Mobile Selling Store";
+			packageProductDependencies = (
+			);
+			productName = "Mobile Selling Store";
+			productReference = 3F8236C42DBA48B50024BFF9 /* Mobile Selling Store.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3F8236D92DBA48B60024BFF9 /* Mobile Selling StoreTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F8236F22DBA48B60024BFF9 /* Build configuration list for PBXNativeTarget "Mobile Selling StoreTests" */;
+			buildPhases = (
+				3F8236D62DBA48B60024BFF9 /* Sources */,
+				3F8236D72DBA48B60024BFF9 /* Frameworks */,
+				3F8236D82DBA48B60024BFF9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3F8236DC2DBA48B60024BFF9 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3F8236DD2DBA48B60024BFF9 /* Mobile Selling StoreTests */,
+			);
+			name = "Mobile Selling StoreTests";
+			packageProductDependencies = (
+			);
+			productName = "Mobile Selling StoreTests";
+			productReference = 3F8236DA2DBA48B60024BFF9 /* Mobile Selling StoreTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3F8236E32DBA48B60024BFF9 /* Mobile Selling StoreUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F8236F52DBA48B60024BFF9 /* Build configuration list for PBXNativeTarget "Mobile Selling StoreUITests" */;
+			buildPhases = (
+				3F8236E02DBA48B60024BFF9 /* Sources */,
+				3F8236E12DBA48B60024BFF9 /* Frameworks */,
+				3F8236E22DBA48B60024BFF9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3F8236E62DBA48B60024BFF9 /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				3F8236E72DBA48B60024BFF9 /* Mobile Selling StoreUITests */,
+			);
+			name = "Mobile Selling StoreUITests";
+			packageProductDependencies = (
+			);
+			productName = "Mobile Selling StoreUITests";
+			productReference = 3F8236E42DBA48B60024BFF9 /* Mobile Selling StoreUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3F8236BC2DBA48B50024BFF9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1620;
+				LastUpgradeCheck = 1620;
+				TargetAttributes = {
+					3F8236C32DBA48B50024BFF9 = {
+						CreatedOnToolsVersion = 16.2;
+					};
+					3F8236D92DBA48B60024BFF9 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 3F8236C32DBA48B50024BFF9;
+					};
+					3F8236E32DBA48B60024BFF9 = {
+						CreatedOnToolsVersion = 16.2;
+						TestTargetID = 3F8236C32DBA48B50024BFF9;
+					};
+				};
+			};
+			buildConfigurationList = 3F8236BF2DBA48B50024BFF9 /* Build configuration list for PBXProject "Mobile Selling Store" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3F8236BB2DBA48B50024BFF9;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 3F8236C52DBA48B50024BFF9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3F8236C32DBA48B50024BFF9 /* Mobile Selling Store */,
+				3F8236D92DBA48B60024BFF9 /* Mobile Selling StoreTests */,
+				3F8236E32DBA48B60024BFF9 /* Mobile Selling StoreUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3F8236C22DBA48B50024BFF9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F8236D82DBA48B60024BFF9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F8236E22DBA48B60024BFF9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3F8236C02DBA48B50024BFF9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F8236D62DBA48B60024BFF9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F8236E02DBA48B60024BFF9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3F8236DC2DBA48B60024BFF9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3F8236C32DBA48B50024BFF9 /* Mobile Selling Store */;
+			targetProxy = 3F8236DB2DBA48B60024BFF9 /* PBXContainerItemProxy */;
+		};
+		3F8236E62DBA48B60024BFF9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3F8236C32DBA48B50024BFF9 /* Mobile Selling Store */;
+			targetProxy = 3F8236E52DBA48B60024BFF9 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		3F8236EE2DBA48B60024BFF9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Mobile Selling Store/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "lpu.Mobile-Selling-Store";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3F8236EF2DBA48B60024BFF9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Mobile Selling Store/Info.plist";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "lpu.Mobile-Selling-Store";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		3F8236F02DBA48B60024BFF9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3F8236F12DBA48B60024BFF9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3F8236F32DBA48B60024BFF9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "lpu.Mobile-Selling-StoreTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mobile Selling Store.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Mobile Selling Store";
+			};
+			name = Debug;
+		};
+		3F8236F42DBA48B60024BFF9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "lpu.Mobile-Selling-StoreTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Mobile Selling Store.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Mobile Selling Store";
+			};
+			name = Release;
+		};
+		3F8236F62DBA48B60024BFF9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "lpu.Mobile-Selling-StoreUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Mobile Selling Store";
+			};
+			name = Debug;
+		};
+		3F8236F72DBA48B60024BFF9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "lpu.Mobile-Selling-StoreUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Mobile Selling Store";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3F8236BF2DBA48B50024BFF9 /* Build configuration list for PBXProject "Mobile Selling Store" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F8236F02DBA48B60024BFF9 /* Debug */,
+				3F8236F12DBA48B60024BFF9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F8236ED2DBA48B60024BFF9 /* Build configuration list for PBXNativeTarget "Mobile Selling Store" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F8236EE2DBA48B60024BFF9 /* Debug */,
+				3F8236EF2DBA48B60024BFF9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F8236F22DBA48B60024BFF9 /* Build configuration list for PBXNativeTarget "Mobile Selling StoreTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F8236F32DBA48B60024BFF9 /* Debug */,
+				3F8236F42DBA48B60024BFF9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F8236F52DBA48B60024BFF9 /* Build configuration list for PBXNativeTarget "Mobile Selling StoreUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F8236F62DBA48B60024BFF9 /* Debug */,
+				3F8236F72DBA48B60024BFF9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3F8236BC2DBA48B50024BFF9 /* Project object */;
+}
