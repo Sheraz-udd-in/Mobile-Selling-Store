@@ -1,28 +1,52 @@
-# Mobile-Selling-Store
-The Mobile Selling Store is an iOS application designed to showcase and sell smartphones through a clean and intuitive interface. Developed using Swift and UIKit, and fully designed in Storyboard using Xcode, the app offers a smooth browsing and shopping experience tailored for mobile devices.
-.
+# 📱 Mobile-Selling-Store
 
-🔧 Key Features:
-Home Screen: Displays a catalog of the latest mobile phones with images, names, and prices.
+The **Mobile Selling Store** is an iOS application designed to showcase and sell smartphones through a clean and intuitive interface. Developed using **Swift** and **UIKit**, the app is fully constructed in **Storyboard** using **Xcode**, offering users a seamless shopping experience tailored for mobile devices.
 
-Product Details Page: Shows detailed specifications, images, and pricing for selected smartphones.
+---
 
-Category Filtering: Users can browse phones based on categories like brand, price range, or features.
+## 🔧 Key Features
 
-Add to Cart: Allows users to select and store products they wish to buy.
+- **🏠 Home Screen**  
+  Displays a catalog of the latest mobile phones with images, names, and prices.
 
-Cart Summary: Displays a list of selected items with a total amount and checkout button.
+- **📄 Product Details Page**  
+  Shows detailed specifications, multiple images, and pricing for each selected smartphone.
 
-Login/Signup Flow: Basic user authentication for personalized shopping experience.
+- **🔍 Category Filtering**  
+  Users can filter phones by brand, price range, or specific features.
 
-🛠️ Technologies Used:
-Swift as the core programming language.
+- **🛒 Add to Cart**  
+  Allows users to select and store products they wish to buy.
 
-UIKit for designing UI elements and interactions.
+- **📦 Cart Summary**  
+  Displays a list of selected items with total amount and a checkout button.
 
-Storyboard for visually constructing the app’s user interface.
+- **🔐 Login/Signup Flow**  
+  Enables basic user authentication for a personalized shopping experience.
 
-Navigation Controllers and Segues for handling screen transitions.
+---
 
-This project serves as a solid foundation for learning e-commerce app development in iOS, emphasizing Storyboard design, user flows, and data-driven interfaces.
+## 🛠️ Technologies Used
+
+- **Swift** – Core programming language.
+- **UIKit** – For creating and managing UI components.
+- **Storyboard** – Used for visually designing the entire app UI.
+- **Navigation Controllers & Segues** – To manage screen transitions and data flow.
+
+---
+
+## 🚀 Project Goals
+
+This project serves as a strong starting point for learning **e-commerce app development** in iOS. It emphasizes:
+
+- Building with **Storyboard**.
+- Managing **user flows** with authentication.
+- Displaying **data-driven UI** using native components.
+
+---
+
+## 👨‍💻 Author
+
+**Sheraz Uddin Mirza**  
+[GitHub](https://github.com/Sheraz-udd-in) | [LinkedIn](https://www.linkedin.com/in/sheraz-uddin-mirza)
 
